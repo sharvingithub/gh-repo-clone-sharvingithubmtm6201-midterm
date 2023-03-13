@@ -215,7 +215,7 @@ hr{
 }
 
 .formbutton:hover{
-    color: #a6212b;
+    color: #9b212b;
     background-color: #FCFAF4;
     border: 1px solid #3F1214;
     border-radius: 7rem;
@@ -229,6 +229,7 @@ hr{
     box-shadow: none;
 }
 
+
 .detailholder{
     position: relative;
 }
@@ -239,6 +240,7 @@ hr{
     transform: translateY(-50%);
     transform: translateY(-50%);
 }
+
 
 /* about us  page */
  
